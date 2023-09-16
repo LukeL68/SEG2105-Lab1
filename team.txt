@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-nick
-=======
 Luke
 Kai
 nick
->>>>>>> 8edfab0605b0c243db899372a709cc75b85dca20
